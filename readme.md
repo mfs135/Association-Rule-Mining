@@ -1,6 +1,11 @@
 # Association Rule Mining for Market Basket Analysis
 
-## Workshop 6 – Market Basket Analysis Using Association Rule Mining
+<div align="center">
+<img height="300" width="700" src="https://media.licdn.com/dms/image/v2/C4E12AQGU1v7D_aF3Fg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520139318564?e=2147483647&v=beta&t=02RtjMYVUFydfQ2Ho4cfcbc5FRc27WLVawp9lBFGWdg">
+
+</div>
+
+## Project – Market Basket Analysis Using Association Rule Mining
 
 ### Introduction
 In this Project, we implemented the **Apriori Algorithm** to perform **Market Basket Analysis**. The goal was to discover associations between items in a dataset of transactions (e.g., items frequently bought together in a store). The dataset used in this workshop was personalized for each student using a unique identifier.
